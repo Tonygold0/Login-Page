@@ -7,7 +7,9 @@ body{
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     /* line-height: 1.5; */
-    background-color: papayawhip;
+    /* background-color: papayawhip; */
+    background-image: url(/images/4873152.jpg);
+    background-size: cover;
     /* color: #00008b; */
     padding: 0px;
     margin: 0px;
